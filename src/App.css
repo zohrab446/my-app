@@ -1,0 +1,17 @@
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+
+
+
+.section{
+ margin-top: 50px;
+ display: flex;
+ gap: 20px;
+ justify-content: center;
+ align-items: center;
+ 
+}
